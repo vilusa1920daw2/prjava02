@@ -12,4 +12,4 @@
 10. git checkout master\
     git merge brancha00\
 12. Perque nomes es puja la branca en la que estas actualment i no importa on havies fet els canvis originalment.\
-14. git push --set-upstream origin branca01 \
+14. git push --set-upstream origin branca01\
